@@ -1,3 +1,3 @@
-# Python_theory
+# python-theory
 
 Python Study.
